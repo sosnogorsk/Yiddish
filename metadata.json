@@ -1,0 +1,6 @@
+{
+  "name": "DocTag OCR - Image to PDF & Google Drive Organizer",
+  "description": "Convert JPG or HEIC documents to PDF, detect yellow tag text using OCR for intelligent file renaming, and organize and save to Google Drive folders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
